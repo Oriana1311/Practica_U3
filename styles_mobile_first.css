@@ -186,6 +186,7 @@ input[type="submit"]{
 .caja-flex{
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     width: 100%;
