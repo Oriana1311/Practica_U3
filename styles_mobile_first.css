@@ -42,7 +42,7 @@ header .redesHeader img{
     align-items: center;
     justify-content: center;
     background-color: #F1AA7E;
-    height: 15vh;
+    height: 20vh;
     text-align: center;
 }
 
@@ -54,12 +54,13 @@ header .redesHeader img{
 }
 
 #menu ul li{
-    font-size: 15px;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin: 0px 20px 0px 20px;
     letter-spacing: 1px;
     list-style: none;
+    padding-bottom: 5px;
 }
 
 #menu ul li a{
@@ -75,6 +76,11 @@ header .redesHeader img{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+    font-size: 18px;
+}
+
+header .logo{
+    font-size: 30px;
 }
 
 /*SECCION - VIDEO*/
